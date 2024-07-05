@@ -1,0 +1,88 @@
+<resources>
+    <!-- intro -->
+    <string name="app_name">OnlineShop</string>
+    <string name="title_intro">Your shop destination for everything</string>
+    <string name="title_content">Get personalized recommendations, \\n Enjoy fast, free shipping</string>
+    <string name="btnLetGo">Let go</string>
+
+    <!-- login -->
+    <string name="title_login">Login here</string>
+    <string name="enter_phone">Enter phone number</string>
+    <string name="enter_password">Enter password</string>
+    <string name="title_phone">Phone number:</string>
+    <string name="title_password">Password:</string>
+    <string name="btnLogin">Login</string>
+    <string name="goToSignUp">Sign up here</string>
+
+    <!-- sign up -->
+    <string name="title_signup">Sign up here</string>
+    <string name="verification_code">Verification code:</string>
+    <string name="enter_code">Enter code</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="btnCheck">Check</string>
+    <string name="goToSignIn">Sign in here</string>
+
+    <!-- setup password -->
+    <string name="title_signupPassword">Set up your password</string>
+    <string name="title_repeatPassword">Repeat password:</string>
+    <string name="enter_repeatPassword">Enter repeat password</string>
+    <string name="btnSignUp">Sign up</string>
+
+    <!-- home fragment -->
+    <string name="Official_Brand">Official Brand</string>
+    <string name="Popular_products">Popular products</string>
+
+    <!-- detail -->
+    <string name="title">Title</string>
+    <string name="Product_detail">Product detail:</string>
+    <string name="Select_size">Select size:</string>
+    <string name="btnAddCart">Add to cart</string>
+
+    <!-- search -->
+    <string name="search">Search in here</string>
+
+    <!-- cart -->
+    <string name="My_cart">My cart</string>
+    <string name="Enter_your_discount">Enter your discount</string>
+    <string name="btnApply">Apply</string>
+    <string name="SubTotal">SubTotal</string>
+    <string name="TotalTax">TotalTax</string>
+    <string name="Total">Total</string>
+    <string name="btnCheckOut">Check out</string>
+
+    <!-- profile -->
+    <string name="titleProfile">Your profile</string>
+    <string name="yourOrder">Your order</string>
+    <string name="setting">Setting</string>
+    <string name="phoneNumber">Your phone number:</string>
+    <string name="switchTheme">Switch theme</string>
+    <string name="selectLanguage">Select language</string>
+    <string name="switchNotification">Notification</string>
+
+    <!-- order completed -->
+    <string name="titleCompleted">Completed</string>
+
+    <!-- order completed items -->
+    <string name="orderId">Order ID:</string>
+    <string name="priceItems">Price:</string>
+    <string name="addressItems">Address:</string>
+
+    <!-- order -->
+    <string name="titleOrder">Order</string>
+    <string name="titleDate">Date:</string>
+    <string name="Items">Items</string>
+    <string name="titlePayment">Payment method:</string>
+    <string name="titleTotalPrice">Total price:</string>
+    <string name="titleBtnOrderAgain">Order again</string>
+    <string name="titleQuantity">Quantity:</string>
+    <string name="titleSize">Size:</string>
+
+    <!-- check out -->
+    <string name="titleCheckOut">Check Out</string>
+    <string name="titlePay">Payment Method</string>
+    <string name="titleDeliverAddress">Deliver Address</string>
+    <string name="titleAddNewAddress">+ Add new address</string>
+    <string name="titleEstimatedDelivery">Estimated Delivery:</string>
+    <string name="titleAmountPayable">Amount Payable:</string>
+    <string name="titleBtnPayAndCompleted">Pay and Complete Order</string>
+</resources>

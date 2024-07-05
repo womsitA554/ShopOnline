@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- intro -->
+    <string name="app_name">OnlineShop</string>
+    <string name="title_intro">Điểm đến cửa hàng của bạn cho mọi thứ</string>
+    <string name="title_content">Nhận đề xuất được cá nhân hóa, \n Tận hưởng giao hàng nhanh chóng, miễn phí</string>
+    <string name="btnLetGo">Đi thôi</string>
+    <!-- login -->
+    <string name="title_login">Đăng nhập tại đây</string>
+    <string name="enter_phone">Nhập số điện thoại</string>
+    <string name="enter_password">Nhập mật khẩu</string>
+    <string name="title_phone">Số điện thoại:</string>
+    <string name="title_password"> Mật khẩu:</string>
+    <string name="btnLogin">Đăng nhập</string>
+    <string name="goToSignUp">Đăng ký tại đây</string>
+    <!-- sign up -->
+    <string name="title_signup">Đăng ký tại đây</string>
+    <string name="verification_code">Mã xác nhận:</string>
+    <string name="enter_code">Nhập mã</string>
+    <string name="get_otp">Nhận OTP</string>
+    <string name="btnCheck">Kiểm tra</string>
+    <string name="goToSignIn">Đăng nhập tại đây</string>
+    <!-- setup password -->
+    <string name="title_signupPassword">Thiết lập mật khẩu của bạn</string>
+    <string name="title_repeatPassword">Lặp lại mật khẩu:</string>
+    <string name="enter_repeatPassword">Nhập lại mật khẩu</string>
+    <string name="btnSignUp">Đăng ký</string>
+
+    <!-- home fragment -->
+    <string name="Official_Brand">Thương hiệu chính thức</string>
+    <string name="Popular_products">Sản phẩm phổ biến</string>
+
+    <!-- detail -->
+    <string name="title">Tiêu đề</string>
+    <string name="Product_detail">Chi tiết sản phẩm:</string>
+    <string name="Select_size">Chọn kích cỡ:</string>
+    <string name="btnAddCart">Thêm vào giỏ hàng</string>
+
+    <!-- search -->
+    <string name="search">Tìm kiếm ở đây</string>
+
+    <!-- cart -->
+    <string name="My_cart">Giỏ hàng của tôi</string>
+    <string name="Enter_your_discount">Nhập giảm giá của bạn</string>
+    <string name="btnApply">Áp dụng</string>
+    <string name="SubTotal">Tổng phụ</string>
+    <string name="TotalTax">Tổng thuế</string>
+    <string name="Total">Tổng cộng</string>
+    <string name="btnCheckOut">Thủ tục thanh toán</string>
+
+    <!-- profile -->
+    <string name="titleProfile">Hồ sơ của bạn</string>
+    <string name="yourOrder">Đơn hàng của bạn</string>
+    <string name="setting">Cài đặt</string>
+    <string name="phoneNumber">Số điện thoại của bạn:</string>
+    <string name="switchTheme">Chuyển màu nền</string>
+    <string name="selectLanguage">Chọn ngôn ngữ</string>
+    <string name="switchNotification">Thông báo</string>
+
+    <!-- order completed -->
+    <string name="titleCompleted">Hoàn thành</string>
+
+    <!-- order completed items -->
+    <string name="orderId">ID đơn hàng:</string>
+    <string name="priceItems">Giá:</string>
+    <string name="addressItems">Địa chỉ:</string>
+
+    <!-- order -->
+    <string name="titleOrder">Đặt hàng</string>
+    <string name="titleDate">Ngày:</string>
+    <string name="Items">Mặt hàng</string>
+    <string name="titlePayment">Phương thức thanh toán:</string>
+    <string name="titleTotalPrice">Tổng giá:</string>
+    <string name="titleBtnOrderAgain">Đặt hàng lại</string>
+    <string name="titleQuantity">Số lượng:</string>
+    <string name="titleSize">Kích cỡ:</string>
+
+    <!-- check out -->
+    <string name="titleCheckOut">Thủ tục thanh toán</string>
+    <string name="titlePay">Phương thức thanh toán</string>
+    <string name="titleDeliverAddress">Địa chỉ giao hàng</string>
+    <string name="titleAddNewAddress">+ Thêm địa chỉ mới</string>
+    <string name="titleEstimatedDelivery">Dự kiến giao hàng:</string>
+    <string name="titleAmountPayable">Số tiền phải trả:</string>
+    <string name="titleBtnPayAndCompleted">Thanh toán và hoàn tất đơn hàng</string>
+
+</resources>

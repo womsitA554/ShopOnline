@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "246075657517",
+    "firebase_url": "https://shoponline-f6905-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "shoponline-f6905",
+    "storage_bucket": "shoponline-f6905.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246075657517:android:b5ba73dde534c25eb697a4",
+        "android_client_info": {
+          "package_name": "com.example.firebase_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQofY5xi38l1sG8oeB2hMzCSAAh76XXiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246075657517:android:80cb3313f52ead68b697a4",
+        "android_client_info": {
+          "package_name": "com.example.shoponline_java"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQofY5xi38l1sG8oeB2hMzCSAAh76XXiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
